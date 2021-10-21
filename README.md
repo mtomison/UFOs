@@ -15,6 +15,6 @@ This website is a versatile search of UFO sightings that occurred in the first 2
 
 ## Pictures
 Here are some filter images to help visualize the search functionality of the web page.
-[image one](https://github.com/mtomison/UFOs/blob/main/static/css/images/websiteSearch.png)
-[image two](https://github.com/mtomison/UFOs/blob/main/static/css/images/websiteSearch2.png)
-[image three](https://github.com/mtomison/UFOs/blob/main/static/css/images/websiteSearch3.png)
+- [image one](https://github.com/mtomison/UFOs/blob/main/static/css/images/websiteSearch.png)
+- [image two](https://github.com/mtomison/UFOs/blob/main/static/css/images/websiteSearch2.png)
+- [image three](https://github.com/mtomison/UFOs/blob/main/static/css/images/websiteSearch3.png)
